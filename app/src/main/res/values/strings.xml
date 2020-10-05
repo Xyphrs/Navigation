@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Navigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawtext">Android is HARD</string>
+    <string name="draw1">Drawer 1</string>
+    <string name="draw2">Drawer 2</string>
+    <string name="draw3">Drawer 3</string>
+    <string name="bot1">Bottom 1</string>
+    <string name="bot2">Bottom 2</string>
+    <string name="bot3">Bottom 3</string>
+</resources>

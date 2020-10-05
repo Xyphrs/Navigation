@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/drawer_graph"
+    app:startDestination="@id/draw1">
+
+    <fragment
+        android:id="@+id/draw1"
+        android:name="com.example.navigation.draw1"
+        android:label="fragment_draw1"
+        tools:layout="@layout/fragment_draw1" />
+    <fragment
+        android:id="@+id/draw2"
+        android:name="com.example.navigation.draw2"
+        android:label="fragment_draw2"
+        tools:layout="@layout/fragment_draw2" />
+    <fragment
+        android:id="@+id/draw3"
+        android:name="com.example.navigation.draw3"
+        android:label="fragment_draw3"
+        tools:layout="@layout/fragment_draw3"
+        />
+</navigation>
