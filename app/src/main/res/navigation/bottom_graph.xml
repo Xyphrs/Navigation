@@ -8,16 +8,48 @@
     <fragment
         android:id="@+id/bottom1Fragment"
         android:name="com.example.navigation.bottom1Fragment"
-        android:label="fragment_bottom1"
+        android:label="Bottom 1"
         tools:layout="@layout/fragment_bottom1" />
     <fragment
         android:id="@+id/bottom2Fragment"
         android:name="com.example.navigation.bottom2Fragment"
-        android:label="fragment_bottom2"
+        android:label="Bottom 2"
         tools:layout="@layout/fragment_bottom2" />
     <fragment
         android:id="@+id/bottom3Fragment"
         android:name="com.example.navigation.bottom3Fragment"
-        android:label="fragment_bottom3"
+        android:label="Bottom 3"
         tools:layout="@layout/fragment_bottom3" />
+    <fragment
+        android:id="@+id/draw1"
+        android:name="com.example.navigation.draw1"
+        android:label="Drawer 1"
+        tools:layout="@layout/fragment_draw1" />
+    <fragment
+        android:id="@+id/draw2"
+        android:name="com.example.navigation.draw2"
+        android:label="Drawer 2"
+        tools:layout="@layout/fragment_draw2" />
+    <fragment
+        android:id="@+id/draw3"
+        android:name="com.example.navigation.draw3"
+        android:label="Drawer 3"
+        tools:layout="@layout/fragment_draw3"
+        />
+    <fragment
+        android:id="@+id/options1Fragment"
+        android:name="com.example.navigation.options1Fragment"
+        android:label="Settings 1"
+        tools:layout="@layout/fragment_options1" />
+    <fragment
+        android:id="@+id/options2Fragment"
+        android:name="com.example.navigation.options2Fragment"
+        android:label="Settings 2"
+        tools:layout="@layout/fragment_options2" />
+    <fragment
+        android:id="@+id/options3Fragment"
+        android:name="com.example.navigation.options3Fragment"
+        android:label="Settings 3"
+        tools:layout="@layout/fragment_options3" />
+
 </navigation>

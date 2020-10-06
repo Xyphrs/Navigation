@@ -9,4 +9,7 @@
     <string name="bot1">Bottom 1</string>
     <string name="bot2">Bottom 2</string>
     <string name="bot3">Bottom 3</string>
+    <string name="option1">Settings 1</string>
+    <string name="option2">Settings 2</string>
+    <string name="option3">Settings 3</string>
 </resources>
